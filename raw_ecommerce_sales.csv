@@ -1,0 +1,333 @@
+Order_ID,Order_Date,Customer_Age,City,Category,Quantity,Unit_Price,Discount_Percent,Payment_Method,Customer_Rating
+ORD1001,2025-02-02,39.0,Mumbai,Books,1,461.54,15,UPI,3.0
+ORD1002,2025-10-10,26.0,Kolkata,Clothing,3,,10,UPI,4.0
+ORD1003,2025-08-27,19.0,Kolkata,Beauty,5,326.66,0,Credit Card,4.0
+ORD1004,2025-06-10,21.0,Chennai,Clothing,3,310.37,5,Cash on Delivery,3.0
+ORD1005,2025-06-08,23.0,Kolkata,Clothing,3,108.5,15,Cash on Delivery,5.0
+ORD1006,2025-11-10,,Bengaluru,Books,3,349.14,15,Credit Card,5.0
+ORD1007,2025-02-01,23.0,Hyderabad,Electronics,4,91.72,10,Credit Card,3.0
+ORD1008,2025-09-12,38.0,Kolkata,Electronics,1,132.09,5,UPI,5.0
+ORD1009,2025-03-15,22.0,Pune,Clothing,5,516.63,15,Cash on Delivery,1.0
+ORD1010,2025-02-04,,Pune,Home,5,382.28,0,UPI,5.0
+ORD1011,2025-07-12,33.0,Kolkata,Home,1,582.2,20,Cash on Delivery,5.0
+ORD1012,2025-12-23,29.0,,Books,5,185.57,0,Cash on Delivery,1.0
+ORD1013,2025-09-26,30.0,delhi,Clothing,5,104.69,0,Debit Card,5.0
+ORD1014,2025-10-05,24.0,,Clothing,4,,10,Credit Card,5.0
+ORD1015,2025-09-19,34.0,Pune,Electronics,2,236.59,10,Cash on Delivery,5.0
+ORD1016,2025-10-14,26.0,Kolkata,Beauty,3,233.07,10,Debit Card,5.0
+ORD1017,2025-07-07,19.0,Pune,Books,5,462.61,10,Debit Card,4.0
+ORD1018,2025-02-16,18.0,Kolkata,Home,1,175.07,25,Cash on Delivery,2.0
+ORD1019,2025-11-03,32.0,Mumbai,Beauty,5,278.33,10,Cash on Delivery,5.0
+ORD1020,2025-06-14,44.0,Pune,Clothing,5,116.44,10,UPI,4.0
+ORD1021,2025-07-02,31.0,Mumbai,Books,4,296.7,10,Cash on Delivery,4.0
+ORD1022,2025-05-16,29.0,Bengaluru,Beauty,2,221.85,0,Cash on Delivery,4.0
+ORD1023,2025-03-08,33.0,Kolkata,Electronics,3,136.0,10,UPI,4.0
+ORD1024,2025-12-05,42.0,Pune,Clothing,1,189.94,5,Credit Card,3.0
+ORD1025,2025-10-13,32.0,Bengaluru,Electronics,5,196.43,15,Cash on Delivery,5.0
+ORD1026,2025-08-24,26.0,Kolkata,Electronics,2,185.75,0,UPI,2.0
+ORD1027,2025-05-27,40.0,Delhi,Electronics,1,700.2,25,Credit Card,
+ORD1028,2025-10-28,34.0,Delhi,CLOTHING,4,207.68,10,Debit Card,5.0
+ORD1029,2025-07-19,44.0,delhi,Home,4,188.95,20,Debit Card,4.0
+ORD1030,2025-06-11,3.0,Delhi,Clothing,4,56.64,10,Cash on Delivery,
+ORD1031,2025-06-14,19.0,Hyderabad,Clothing,1,123.81,0,UPI,3.0
+ORD1032,2025-03-24,18.0,,Books,4,186.61,20,Credit Card,5.0
+ORD1033,2025-02-03,45.0,Pune,Home,4,141.77,15,Cash on Delivery,5.0
+ORD1034,2025-07-22,46.0,Delhi,Beauty,4,543.54,15,Debit Card,4.0
+ORD1035,2025-11-21,28.0,Delhi,CLOTHING,5,198.9,10,UPI,3.0
+ORD1036,2025-01-24,27.0,mumbai ,Books,2,511.57,15,Credit Card,3.0
+ORD1037,2025-11-10,43.0,Kolkata,Clothing,2,230.47,20,Credit Card,4.0
+ORD1038,2025-10-30,20.0,Bangalore,Clothing,5,226.83,15,Debit Card,5.0
+ORD1039,2025-04-12,22.0,Kolkata,Books,3,208.99,5,Credit Card,5.0
+ORD1040,2025-08-19,36.0,Mumbai,Beauty,3,221.95,15,Debit Card,3.0
+ORD1041,2025-03-02,,Pune,Home,2,676.69,15,Credit Card,5.0
+ORD1042,2025-10-04,30.0,Bengaluru,Beauty,4,49.02,25,Debit Card,4.0
+ORD1043,2025-09-13,29.0,Delhi,Home,4,60.28,5,UPI,5.0
+ORD1044,2025-05-10,33.0,Pune,Clothing,1,155.55,10,Debit Card,3.0
+ORD1045,2025-01-25,43.0,Hyderabad,Clothing,3,223.51,20,Cash on Delivery,4.0
+ORD1046,2025-12-21,31.0,Delhi,Clothing,5,346.74,10,UPI,5.0
+ORD1047,2025-06-12,36.0,Kolkata,Electronics,2,301.12,15,Credit Card,3.0
+ORD1048,2025-11-22,12.0,Pune,Books,2,172.47,10,Debit Card,4.0
+ORD1049,2025-09-05,30.0,Chennai,Clothing,5,429.4,5,Debit Card,5.0
+ORD1050,2025-10-12,22.0,,Beauty,1,432.52,15,Debit Card,3.0
+ORD1051,2025-10-05,19.0,Bengaluru,Home,2,249.54,0,Debit Card,2.0
+ORD1052,2025-03-13,22.0,Bengaluru,Home,3,413.94,0,Debit Card,4.0
+ORD1053,2025-05-13,27.0,Chennai,Clothing,4,264.34,10,Debit Card,4.0
+ORD1054,2025-06-20,38.0,Mumbai,Clothing,1,153.71,15,UPI,2.0
+ORD1055,2025-07-01,18.0,Mumbai,Books,3,348.48,20,Cash on Delivery,4.0
+ORD1056,2025-01-16,30.0,Chennai,Home,1,237.91,5,Credit Card,5.0
+ORD1057,2025-07-19,26.0,Chennai,Home,4,221.6,0,UPI,3.0
+ORD1058,2025-02-26,27.0,Delhi,Books,4,576.76,25,Credit Card,4.0
+ORD1059,2025-09-29,39.0,Kolkata,Home,3,45.01,0,Credit Card,5.0
+ORD1060,2025-09-07,35.0,Bengaluru,Electronics,2,88.1,0,UPI,4.0
+ORD1061,2025-12-03,42.0,Kolkata,Beauty,1,102.35,5,Cash on Delivery,5.0
+ORD1062,2025-09-29,29.0,Hyderabad,Electronics,5,174.84,10,UPI,4.0
+ORD1063,2025-05-14,24.0,Delhi,Home,4,187.64,20,Credit Card,
+ORD1064,2025-12-20,28.0,Hyderabad,Books,2,83.12,15,Credit Card,
+ORD1065,2025-05-30,32.0,Kolkata,Beauty,3,116.7,15,Cash on Delivery,2.0
+ORD1066,2025-04-29,32.0,Pune,Clothing,4,126.53,0,Debit Card,5.0
+ORD1067,2025-11-27,20.0,Bengaluru,electronics,4,1093.7,5,Cash on Delivery,4.0
+ORD1068,2025-05-16,31.0,Bengaluru,Books,3,714.18,10,UPI,3.0
+ORD1069,2025-01-28,32.0,,Electronics,2,169.42,0,Cash on Delivery,3.0
+ORD1070,2025-06-21,53.0,Chennai,Electronics,4,174.8,5,Cash on Delivery,4.0
+ORD1071,2025-10-18,47.0,Mumbai,Clothing,4,104.9,5,Credit Card,1.0
+ORD1072,2025-03-11,22.0,Chennai,Electronics,3,64.05,0,Debit Card,3.0
+ORD1073,2025-06-18,27.0,Pune,Clothing,1,205.21,10,UPI,2.0
+ORD1074,2025-02-17,17.0,Bengaluru,Beauty,3,115.75,15,Cash on Delivery,4.0
+ORD1075,2025-09-08,25.0,Hyderabad,Clothing,4,209.53,0,Cash on Delivery,4.0
+ORD1076,2025-06-23,33.0,Chennai,Electronics,5,78.25,10,Credit Card,4.0
+ORD1077,2025-05-01,41.0,Bengaluru,Electronics,3,134.92,15,Debit Card,3.0
+ORD1078,2025-03-24,23.0,Delhi,Clothing,2,243.86,15,Credit Card,1.0
+ORD1079,2025-07-26,24.0,Chennai,Electronics,3,280.91,20,UPI,4.0
+ORD1080,2025-09-02,11.0,Mumbai,Home,1,290.43,10,Debit Card,4.0
+ORD1081,2025-12-10,29.0,Pune,Electronics,1,93.85,20,Debit Card,4.0
+ORD1082,2025-06-09,20.0,Kolkata,Clothing,4,385.89,5,Cash on Delivery,2.0
+ORD1083,2025-02-28,25.0,Kolkata,Clothing,5,131.61,5,Cash on Delivery,1.0
+ORD1084,2025-10-31,22.0,Mumbai,Clothing,5,334.07,0,Credit Card,3.0
+ORD1085,2025-08-18,29.0,Chennai,Electronics,3,219.88,10,Cash on Delivery,4.0
+ORD1086,2025-09-13,14.0,Mumbai,Electronics,1,90.5,10,Debit Card,4.0
+ORD1087,2025-02-05,17.0,Bangalore,Books,5,180.27,5,Debit Card,5.0
+ORD1088,2025-04-25,49.0,Pune,Electronics,3,280.76,15,Debit Card,
+ORD1089,2025-10-08,18.0,Hyderabad,Beauty,2,329.78,5,Cash on Delivery,4.0
+ORD1090,2025-10-31,20.0,Hyderabad,Beauty,5,202.02,5,Debit Card,4.0
+ORD1091,2025-06-08,47.0,Hyderabad,Clothing,4,599.24,0,UPI,1.0
+ORD1092,2025-10-21,56.0,Kolkata,Clothing,4,426.19,10,UPI,4.0
+ORD1093,2025-11-04,19.0,Mumbai,Home,2,187.39,5,Credit Card,4.0
+ORD1094,2025-05-22,27.0,Pune,Books,5,48000.0,5,Debit Card,
+ORD1095,2025-11-24,33.0,Pune,Clothing,3,778.19,5,Debit Card,2.0
+ORD1096,2025-04-16,46.0,Hyderabad,Clothing,3,791.8,15,Credit Card,
+ORD1097,2025-03-29,21.0,Chennai,Clothing,4,99.66,20,Debit Card,5.0
+ORD1098,2025-09-07,28.0,Delhi,Clothing,4,121.24,10,Cash on Delivery,1.0
+ORD1099,2025-08-21,37.0,Kolkata,Home,1,581.26,15,Credit Card,4.0
+ORD1100,2025-02-21,34.0,Kolkata,Electronics,2,111.29,20,Credit Card,5.0
+ORD1101,2025-10-31,27.0,Pune,Clothing,2,93.72,25,Debit Card,3.0
+ORD1102,2025-03-14,29.0,Bengaluru,Books,5,161.41,10,Credit Card,5.0
+ORD1103,2025-10-21,18.0,Bengaluru,Electronics,4,290.95,20,Cash on Delivery,4.0
+ORD1104,2025-01-03,28.0,Delhi,CLOTHING,2,207.15,20,Cash on Delivery,5.0
+ORD1105,2025-10-18,28.0,Pune,Home,4,145.06,15,Debit Card,5.0
+ORD1106,2025-10-15,32.0,Pune,Electronics,4,142.85,10,Credit Card,1.0
+ORD1107,2025-10-12,25.0,Delhi,Electronics,2,139.35,0,Debit Card,4.0
+ORD1108,2025-08-31,34.0,Kolkata,Electronics,3,125.0,0,UPI,4.0
+ORD1109,2025-06-22,39.0,Kolkata,Books,5,975.61,10,Credit Card,3.0
+ORD1110,2025-09-15,31.0,Kolkata,Electronics,3,268.64,10,UPI,4.0
+ORD1111,2025-04-12,33.0,Hyderabad,Electronics,1,394.02,10,UPI,5.0
+ORD1112,2025-10-12,30.0,Mumbai,Electronics,4,161.11,10,UPI,1.0
+ORD1113,2025-07-22,30.0,Bengaluru,Electronics,3,196.2,10,Debit Card,4.0
+ORD1114,2025-06-17,24.0,Mumbai,Beauty,3,139.24,20,UPI,5.0
+ORD1115,2025-07-04,33.0,Mumbai,Clothing,4,39.5,0,Debit Card,4.0
+ORD1116,2025-07-27,29.0,Hyderabad,Beauty,5,90.4,5,Credit Card,4.0
+ORD1117,2025-01-14,49.0,Hyderabad,Beauty,2,68.24,15,Credit Card,5.0
+ORD1118,2025-02-21,44.0,delhi,Books,3,51.3,20,Cash on Delivery,4.0
+ORD1119,2025-03-31,33.0,Chennai,Electronics,1,101.8,25,Debit Card,2.0
+ORD1120,2025-02-11,23.0,Mumbai,Books,4,523.86,20,Debit Card,2.0
+ORD1121,2025-06-10,20.0,Mumbai,Beauty,3,215.1,20,Debit Card,5.0
+ORD1122,2025-09-01,41.0,Bangalore,Electronics,2,512.28,5,UPI,3.0
+ORD1123,2025-08-27,32.0,mumbai ,Home,4,289.21,10,UPI,4.0
+ORD1124,2025-06-21,34.0,Kolkata,Books,3,368.21,5,Debit Card,2.0
+ORD1125,2025-11-09,14.0,Hyderabad,Clothing,3,123.27,10,Cash on Delivery,4.0
+ORD1126,2025-07-26,38.0,Chennai,Books,3,311.24,20,UPI,5.0
+ORD1127,2025-01-29,34.0,Pune,Clothing,2,355.55,5,UPI,4.0
+ORD1128,2025-10-07,20.0,Kolkata,Beauty,1,152.2,10,Cash on Delivery,5.0
+ORD1129,2025-07-29,26.0,Delhi,Books,5,318.53,5,Cash on Delivery,3.0
+ORD1130,2025-08-20,32.0,Delhi,Clothing,1,319.9,0,UPI,4.0
+ORD1131,2025-07-26,30.0,Mumbai,Home,2,154.9,0,Credit Card,5.0
+ORD1132,2025-07-22,27.0,Mumbai,Clothing,4,106.72,0,Debit Card,4.0
+ORD1133,2025-02-03,29.0,Pune,Home,1,102.55,20,UPI,3.0
+ORD1134,2025-07-24,28.0,Pune,Beauty,4,234.21,10,Credit Card,5.0
+ORD1135,2025-10-18,31.0,Pune,electronics,4,273.84,20,Credit Card,4.0
+ORD1136,2025-04-21,43.0,Chennai,Clothing,4,132.27,15,Debit Card,4.0
+ORD1137,2025-08-09,7.0,Kolkata,Clothing,2,225.27,0,Credit Card,5.0
+ORD1138,2025-01-12,28.0,Chennai,Electronics,1,90000.0,0,Credit Card,3.0
+ORD1139,2025-05-07,32.0,Bengaluru,Electronics,5,330.9,20,Credit Card,3.0
+ORD1140,2025-06-09,112.0,Chennai,Clothing,2,607.12,5,Cash on Delivery,1.0
+ORD1141,2025-12-25,27.0,Pune,Electronics,5,507.77,20,UPI,4.0
+ORD1142,2025-03-20,14.0,Pune,Electronics,1,115.49,0,UPI,3.0
+ORD1143,2025-04-11,,Chennai,Home,1,661.38,15,UPI,4.0
+ORD1144,2025-05-30,46.0,Delhi,Home,4,156.78,20,Cash on Delivery,3.0
+ORD1145,2025-12-29,16.0,Pune,Home,5,436.67,5,Cash on Delivery,4.0
+ORD1146,2025-11-08,38.0,Bengaluru,Clothing,5,231.41,5,Debit Card,3.0
+ORD1147,2025-01-13,27.0,Pune,Books,4,169.37,25,UPI,4.0
+ORD1148,2025-03-27,29.0,Kolkata,Beauty,2,68.37,5,Cash on Delivery,4.0
+ORD1149,2025-10-27,21.0,Hyderabad,Electronics,5,198.04,10,Credit Card,4.0
+ORD1150,2025-01-22,27.0,Bengaluru,Electronics,4,80.35,10,Cash on Delivery,4.0
+ORD1151,2025-11-09,42.0,Hyderabad,Home,1,415.19,5,Credit Card,4.0
+ORD1152,2025-04-13,35.0,Pune,electronics,1,593.43,15,Cash on Delivery,5.0
+ORD1153,2025-12-01,46.0,Bengaluru,Beauty,5,131.9,15,Cash on Delivery,4.0
+ORD1154,2025-04-18,41.0,Kolkata,Books,2,269.42,5,UPI,3.0
+ORD1155,2025-06-08,34.0,Kolkata,Electronics,4,138.17,20,Debit Card,
+ORD1156,2025-08-30,46.0,Pune,Electronics,1,147.15,5,Credit Card,4.0
+ORD1157,2025-02-16,34.0,Chennai,Books,2,366.29,0,Credit Card,1.0
+ORD1158,2025-07-23,37.0,Pune,Beauty,2,215.93,10,Credit Card,4.0
+ORD1159,2025-07-04,27.0,Bengaluru,Electronics,2,685.93,25,Debit Card,2.0
+ORD1160,2025-10-14,31.0,Kolkata,Books,4,161.83,0,Credit Card,3.0
+ORD1161,2025-12-30,24.0,Kolkata,Books,5,423.93,5,Debit Card,5.0
+ORD1162,2025-08-31,39.0,Hyderabad,Beauty,5,235.88,10,Debit Card,2.0
+ORD1163,2025-05-30,19.0,Bengaluru,Beauty,4,371.39,15,Cash on Delivery,5.0
+ORD1164,2025-05-29,37.0,Chennai,Clothing,2,165.56,0,Cash on Delivery,5.0
+ORD1165,2025-06-02,28.0,Delhi,Electronics,5,214.39,10,UPI,4.0
+ORD1166,2025-10-25,,Pune,Beauty,3,35000.0,15,Cash on Delivery,4.0
+ORD1167,2025-04-28,37.0,Bengaluru,Clothing,3,128.58,5,UPI,4.0
+ORD1168,2025-03-02,46.0,Bengaluru,Home,4,340.48,0,Debit Card,5.0
+ORD1169,2025-05-03,37.0,Chennai,Books,4,337.87,0,Credit Card,4.0
+ORD1170,2025-01-09,16.0,Kolkata,Electronic,5,325.65,10,Debit Card,3.0
+ORD1171,2025-02-08,29.0,Pune,Beauty,3,601.26,10,Debit Card,4.0
+ORD1172,2025-02-02,19.0,Kolkata,Clothing,4,567.97,20,Cash on Delivery,4.0
+ORD1173,2025-10-09,25.0,Kolkata,Books,4,173.52,15,Credit Card,3.0
+ORD1174,2025-09-21,44.0,Delhi,Clothing,2,282.16,15,Cash on Delivery,4.0
+ORD1175,2025-09-12,36.0,Delhi,Beauty,2,147.62,25,Credit Card,1.0
+ORD1176,2025-06-18,24.0,,Beauty,4,224.79,10,UPI,5.0
+ORD1177,2025-09-19,21.0,Hyderabad,Clothing,1,149.93,10,Credit Card,3.0
+ORD1178,2025-02-28,,Hyderabad,Home,2,634.63,20,Debit Card,1.0
+ORD1179,2025-11-25,19.0,Chennai,Home,4,65000.0,5,Debit Card,2.0
+ORD1180,2025-07-02,24.0,Chennai,Beauty,5,192.15,15,Cash on Delivery,3.0
+ORD1181,2025-12-09,33.0,Bengaluru,Home,3,480.99,15,UPI,3.0
+ORD1182,2025-02-25,40.0,Mumbai,Books,2,54.01,0,Credit Card,1.0
+ORD1183,2025-07-01,35.0,Delhi,Clothing,3,59.79,10,Cash on Delivery,3.0
+ORD1184,2025-09-12,9.0,Bengaluru,Beauty,4,371.41,5,Credit Card,3.0
+ORD1185,2025-06-30,33.0,Bengaluru,Electronics,3,230.28,0,UPI,4.0
+ORD1186,2025-06-12,31.0,Mumbai,Home,1,260.55,10,Cash on Delivery,4.0
+ORD1187,2025-03-02,34.0,Mumbai,Beauty,3,93.49,5,Credit Card,4.0
+ORD1188,2025-05-20,45.0,Delhi,Clothing,3,218.09,15,Cash on Delivery,4.0
+ORD1189,2025-03-29,11.0,Chennai,Electronics,4,814.26,20,Cash on Delivery,2.0
+ORD1190,2025-04-21,25.0,Hyderabad,Books,5,378.32,15,Cash on Delivery,1.0
+ORD1191,2025-09-07,35.0,Chennai,Clothing,5,247.23,5,Debit Card,3.0
+ORD1192,2025-08-19,16.0,Kolkata,Home,4,166.44,5,Cash on Delivery,5.0
+ORD1193,2025-08-10,43.0,Bengaluru,Electronics,2,171.32,5,Cash on Delivery,5.0
+ORD1194,2025-05-13,33.0,Bengaluru,Books,3,,0,Credit Card,5.0
+ORD1195,2025-12-17,38.0,Delhi,Electronics,1,261.77,20,UPI,4.0
+ORD1196,2025-02-01,25.0,Chennai,Electronics,5,383.59,10,Credit Card,4.0
+ORD1197,2025-05-06,37.0,Kolkata,Books,5,79.51,5,Debit Card,3.0
+ORD1198,2025-02-13,40.0,Delhi,Books,25,144.04,20,Debit Card,5.0
+ORD1199,2025-05-04,32.0,Bengaluru,Electronics,2,104.34,10,UPI,5.0
+ORD1200,2025-12-18,32.0,Mumbai,Clothing,2,118.22,0,Debit Card,5.0
+ORD1201,2025-05-14,32.0,Mumbai,Home,5,229.24,0,UPI,5.0
+ORD1202,2025-11-28,22.0,Chennai,Books,3,57.12,15,Debit Card,4.0
+ORD1203,2025-06-30,29.0,Kolkata,Clothing,4,330.06,15,Debit Card,5.0
+ORD1204,2025-09-13,29.0,Chennai,Beauty,3,361.41,5,Debit Card,5.0
+ORD1205,2025-06-16,33.0,Chennai,Home,3,188.06,20,Credit Card,3.0
+ORD1206,2025-04-08,39.0,Hyderabad,Home,4,44.15,20,Credit Card,5.0
+ORD1207,2025-10-06,20.0,Pune,Home,5,115.85,20,Debit Card,2.0
+ORD1208,2025-12-20,29.0,Chennai,Beauty,2,493.43,5,Debit Card,5.0
+ORD1209,2025-04-07,43.0,Hyderabad,Electronics,5,36.39,0,Cash on Delivery,5.0
+ORD1210,2025-10-12,23.0,Kolkata,Books,2,176.64,20,Credit Card,2.0
+ORD1211,2025-04-06,23.0,Hyderabad,Books,3,102.82,5,Credit Card,4.0
+ORD1212,2025-09-19,32.0,Pune,Home,5,373.52,10,Credit Card,1.0
+ORD1213,2025-10-15,38.0,Chennai,Electronics,5,142.76,15,Debit Card,5.0
+ORD1214,2025-06-14,30.0,Hyderabad,Electronics,5,287.89,0,UPI,5.0
+ORD1215,2025-09-26,,Kolkata,Home,2,319.75,15,Credit Card,
+ORD1216,2025-04-10,38.0,Pune,Electronics,5,730.37,20,UPI,5.0
+ORD1217,2025-01-29,38.0,MUMBAI,Books,5,194.04,15,Debit Card,2.0
+ORD1218,2025-02-05,35.0,Hyderabad,Clothing,5,282.71,10,Cash on Delivery,3.0
+ORD1219,2025-06-13,51.0,Chennai,Home,1,84.33,20,Cash on Delivery,4.0
+ORD1220,2025-11-26,28.0,Pune,Books,4,479.99,10,Credit Card,1.0
+ORD1221,2025-02-16,12.0,Kolkata,Clothing,5,135.05,15,UPI,4.0
+ORD1222,2025-06-16,44.0,Hyderabad,Clothing,4,153.78,20,UPI,3.0
+ORD1223,2025-09-14,26.0,Delhi,Beauty,2,218.23,15,UPI,4.0
+ORD1224,2025-03-15,,Delhi,Beauty,4,80.17,5,Cash on Delivery,
+ORD1225,2025-09-21,42.0,,Clothing,1,256.9,0,Cash on Delivery,5.0
+ORD1226,2025-04-22,16.0,Pune,Beauty,3,415.24,5,Debit Card,3.0
+ORD1227,2025-10-23,19.0,Pune,Books,4,267.84,10,UPI,5.0
+ORD1228,2025-07-31,16.0,Kolkata,Clothing,3,78.82,10,UPI,4.0
+ORD1229,2025-07-19,23.0,Chennai,Electronics,4,,10,Cash on Delivery,4.0
+ORD1230,2025-03-06,34.0,Kolkata,clothes,2,358.64,10,Credit Card,4.0
+ORD1231,2025-06-19,35.0,Hyderabad,Clothing,4,65.32,15,UPI,4.0
+ORD1232,2025-11-09,32.0,Chennai,Electronics,4,110.1,20,UPI,3.0
+ORD1233,2025-01-08,17.0,Bangalore,Electronics,4,,5,Credit Card,4.0
+ORD1234,2025-10-04,9.0,Hyderabad,Home,2,263.9,15,Debit Card,3.0
+ORD1235,2025-06-29,30.0,Delhi,Clothing,2,289.39,15,Cash on Delivery,4.0
+ORD1236,2025-09-20,26.0,Hyderabad,Books,2,741.5,10,Credit Card,4.0
+ORD1237,2025-08-31,34.0,Mumbai,Clothing,3,300.23,0,Debit Card,4.0
+ORD1238,2025-06-07,36.0,Bengaluru,Electronics,3,339.55,15,UPI,5.0
+ORD1239,2025-04-23,31.0,Pune,Home,2,1289.47,25,UPI,3.0
+ORD1240,2025-08-17,,Pune,Books,3,192.68,15,UPI,5.0
+ORD1241,2025-02-21,32.0,,Clothing,2,131.81,20,Cash on Delivery,
+ORD1242,2025-08-02,35.0,Pune,Electronics,2,292.38,25,Debit Card,5.0
+ORD1243,2025-02-04,24.0,Chennai,Electronics,4,294.52,5,Cash on Delivery,5.0
+ORD1244,2025-08-26,28.0,Bengaluru,Beauty,5,157.22,15,UPI,3.0
+ORD1245,2025-08-18,32.0,Delhi,Clothing,2,113.18,10,UPI,4.0
+ORD1246,2025-01-31,37.0,Delhi,Clothing,5,993.66,25,Cash on Delivery,3.0
+ORD1247,2025-10-04,26.0,Bengaluru,Electronics,3,273.81,0,UPI,5.0
+ORD1248,2025-06-01,35.0,Delhi,Beauty,1,137.55,10,UPI,4.0
+ORD1249,2025-10-15,,Kolkata,Books,2,401.56,20,Debit Card,3.0
+ORD1250,2025-01-16,29.0,Pune,Home,1,206.24,5,Debit Card,5.0
+ORD1251,2025-03-07,37.0,Hyderabad,Beauty,1,187.85,15,UPI,2.0
+ORD1252,2025-06-30,12.0,Kolkata,Electronics,2,319.09,10,Credit Card,4.0
+ORD1253,2025-03-10,18.0,Hyderabad,Clothing,3,95.61,25,Debit Card,5.0
+ORD1254,2025-05-01,17.0,Hyderabad,Clothing,4,278.44,20,Credit Card,2.0
+ORD1255,2025-08-30,9.0,Hyderabad,Home,1,767.72,5,Credit Card,4.0
+ORD1256,2025-02-22,24.0,Kolkata,Books,5,299.77,15,UPI,5.0
+ORD1257,2025-09-05,37.0,Bengaluru,Books,2,173.38,5,Credit Card,2.0
+ORD1258,2025-02-07,27.0,Hyderabad,Books,1,159.24,10,Cash on Delivery,4.0
+ORD1259,2025-03-05,32.0,Mumbai,Books,4,169.57,15,Debit Card,3.0
+ORD1260,2025-08-03,40.0,Bengaluru,Books,4,187.71,20,Cash on Delivery,4.0
+ORD1261,2025-10-17,42.0,Delhi,Electronics,4,173.2,0,UPI,2.0
+ORD1262,2025-03-04,29.0,Pune,Electronics,1,401.66,5,UPI,5.0
+ORD1263,2025-04-20,42.0,Chennai,Clothing,1,71.77,15,Debit Card,5.0
+ORD1264,2025-12-04,31.0,Delhi,Beauty,2,387.73,10,UPI,3.0
+ORD1265,2025-12-28,22.0,mumbai ,Electronics,3,172.98,10,Debit Card,4.0
+ORD1266,2025-08-01,25.0,Kolkata,Books,5,282.88,0,Cash on Delivery,4.0
+ORD1267,2025-06-13,17.0,Kolkata,Beauty,2,106.43,5,Credit Card,4.0
+ORD1268,2025-05-07,22.0,Pune,Beauty,1,525.11,20,Debit Card,4.0
+ORD1269,2025-08-12,27.0,Mumbai,Electronics,5,497.53,0,Debit Card,3.0
+ORD1270,2025-08-04,37.0,Hyderabad,Clothing,1,413.12,10,UPI,2.0
+ORD1271,2025-04-18,45.0,,Electronics,1,82.72,20,Cash on Delivery,5.0
+ORD1272,2025-01-09,18.0,Pune,Books,3,379.53,0,UPI,4.0
+ORD1273,2025-02-25,34.0,Mumbai,Beauty,3,288.06,15,Cash on Delivery,5.0
+ORD1274,2025-12-16,21.0,Delhi,Home,4,77.99,5,Debit Card,4.0
+ORD1275,2025-06-02,34.0,,Clothing,5,217.94,20,UPI,5.0
+ORD1276,2025-06-26,29.0,Bengaluru,Clothing,5,280.6,15,Debit Card,2.0
+ORD1277,2025-06-20,14.0,Hyderabad,Clothing,2,317.81,20,UPI,2.0
+ORD1278,2025-10-13,150.0,Delhi,Home,5,248.44,5,Debit Card,
+ORD1279,2025-01-24,25.0,Bengaluru,Home,4,267.55,10,Cash on Delivery,5.0
+ORD1280,2025-01-31,25.0,Delhi,Electronics,1,577.0,15,Cash on Delivery,3.0
+ORD1281,2025-04-11,20.0,Hyderabad,Books,5,491.23,5,Cash on Delivery,4.0
+ORD1282,2025-06-27,24.0,Chennai,Electronics,1,34.34,5,Credit Card,4.0
+ORD1283,2025-09-02,34.0,Pune,Books,3,180.13,0,Debit Card,4.0
+ORD1284,2025-06-29,28.0,Chennai,Electronics,4,198.93,25,Credit Card,3.0
+ORD1285,2025-06-11,33.0,Chennai,Clothing,2,,15,Cash on Delivery,5.0
+ORD1286,2025-12-09,33.0,Pune,Books,2,235.38,15,Credit Card,3.0
+ORD1287,2025-02-28,42.0,Delhi,Electronics,3,498.54,15,Cash on Delivery,4.0
+ORD1288,2025-07-28,27.0,Hyderabad,Clothing,5,109.26,10,Credit Card,2.0
+ORD1289,2025-07-17,17.0,Pune,Clothing,2,275.52,10,Debit Card,1.0
+ORD1290,2025-06-22,40.0,Pune,Clothing,4,122.08,10,UPI,4.0
+ORD1291,2025-10-22,27.0,Bengaluru,Home,3,143.06,15,Debit Card,4.0
+ORD1292,2025-04-08,40.0,Pune,Books,1,578.42,5,UPI,4.0
+ORD1293,2025-12-15,33.0,Bengaluru,Books,4,155.61,20,UPI,2.0
+ORD1294,2025-05-02,29.0,Delhi,Clothing,5,299.0,20,Credit Card,5.0
+ORD1295,2025-07-18,33.0,Hyderabad,Beauty,3,65.61,5,Credit Card,5.0
+ORD1296,2025-07-10,48.0,Mumbai,Clothing,1,742.86,10,Debit Card,5.0
+ORD1297,2025-11-07,49.0,Delhi,Clothing,1,327.58,0,Credit Card,2.0
+ORD1298,2025-06-10,31.0,Chennai,Electronics,3,196.64,25,UPI,4.0
+ORD1299,2025-04-14,31.0,Mumbai,Books,3,321.86,20,Credit Card,4.0
+ORD1300,2025-01-08,40.0,Hyderabad,Books,3,88.55,20,Credit Card,4.0
+ORD1301,2025-05-13,22.0,Kolkata,Home,2,477.54,5,Debit Card,3.0
+ORD1302,2025-10-29,33.0,delhi,Beauty,3,179.36,0,Debit Card,2.0
+ORD1303,2025-01-04,30.0,Hyderabad,Beauty,2,193.9,5,UPI,4.0
+ORD1304,2025-11-24,,Kolkata,Beauty,4,,0,Debit Card,3.0
+ORD1305,2025-07-18,,Mumbai,Beauty,4,151.8,0,Debit Card,4.0
+ORD1306,2025-02-21,16.0,Chennai,Clothing,4,347.77,0,Cash on Delivery,3.0
+ORD1307,2025-04-21,11.0,Kolkata,Electronics,1,261.48,25,Debit Card,3.0
+ORD1308,2025-07-22,20.0,Delhi,Electronics,5,338.2,0,Cash on Delivery,4.0
+ORD1309,2025-04-26,26.0,Pune,Books,1,220.14,0,UPI,4.0
+ORD1310,2025-02-09,27.0,Bengaluru,Beauty,5,309.07,20,Debit Card,4.0
+ORD1311,2025-09-01,47.0,Chennai,Books,1,168.64,10,UPI,4.0
+ORD1312,2025-09-03,40.0,Hyderabad,Electronics,3,943.24,15,UPI,5.0
+ORD1313,2025-02-13,21.0,Chennai,Beauty,1,79.91,15,Cash on Delivery,4.0
+ORD1314,2025-04-13,33.0,Chennai,Electronics,1,502.51,20,Credit Card,4.0
+ORD1315,2025-03-31,26.0,Mumbai,Clothing,4,538.69,15,Debit Card,5.0
+ORD1316,2025-08-29,27.0,Mumbai,Electronics,4,127.24,10,Debit Card,4.0
+ORD1317,2025-09-24,32.0,Bengaluru,Electronics,1,,15,Debit Card,
+ORD1318,2025-09-23,36.0,Pune,Books,5,422.87,10,UPI,5.0
+ORD1319,2025-12-09,27.0,Kolkata,Clothing,40,416.23,5,UPI,2.0
+ORD1320,2025-10-08,,Bengaluru,Beauty,2,225.48,10,UPI,4.0
+ORD1269,2025-08-12,27.0,Mumbai,Electronics,5,497.53,0,Debit Card,3.0
+ORD1067,2025-11-27,20.0,Bengaluru,electronics,4,1093.7,5,Cash on Delivery,4.0
+ORD1280,2025-01-31,25.0,Delhi,Electronics,1,577.0,15,Cash on Delivery,3.0
+ORD1296,2025-07-10,48.0,Mumbai,Clothing,1,742.86,10,Debit Card,5.0
+ORD1018,2025-02-16,18.0,Kolkata,Home,1,175.07,25,Cash on Delivery,2.0
+ORD1274,2025-12-16,21.0,Delhi,Home,4,77.99,5,Debit Card,4.0
+ORD1246,2025-01-31,37.0,Delhi,Clothing,5,993.66,25,Cash on Delivery,3.0
+ORD1001,2025-02-02,39.0,Mumbai,Books,1,461.54,15,UPI,3.0
+ORD1149,2025-10-27,21.0,Hyderabad,Electronics,5,198.04,10,Credit Card,4.0
+ORD1197,2025-05-06,37.0,Kolkata,Books,5,79.51,5,Debit Card,3.0
+ORD1299,2025-04-14,31.0,Mumbai,Books,3,321.86,20,Credit Card,4.0
+ORD1187,2025-03-02,34.0,Mumbai,Beauty,3,93.49,5,Credit Card,4.0
